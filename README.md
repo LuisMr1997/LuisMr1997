@@ -151,28 +151,34 @@ Como Co-Fundador de **JEREMY S.A.S**, lidero el desarrollo de productos tecnolog
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismr1997&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00D4FF&text_color=FFFFFF&ring_color=8B5CF6" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luismr1997&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF88&ring=00D4FF&fire=8B5CF6&currStreakLabel=00FF88" width="49%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=luismr1997&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img src="https://github-readme-stats.vercel.app/api?username=luismr1997&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=luismr1997&theme=radical&hide_border=true&background=0D1117" />
+    <img src="https://streak-stats.demolab.com?user=luismr1997&theme=radical&hide_border=true" width="49%"/>
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismr1997&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismr1997&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117" width="35%"/>
 </div>
 
 <br>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismr1997&custom_title=Contribution%20Graph&bg_color=0D1117&color=00FF88&line=00D4FF&point=8B5CF6&area_color=00FF88&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luismr1997&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 <br>
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luismr1997&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=luismr1997&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 </div>
 
 <br>
