@@ -1,6 +1,6 @@
 <!-- Cyberpunk Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D47A1,100:00B4D8&height=300&section=header&text=LUIS%20MARIN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Co-Founder%20%40%20JEREMY%20S.A.S&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D47A1,100:00B4D8&height=300&section=header&text=LUIS%20MARIN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Co-Founder%20%40%20JEREMY%20S.A.S&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <!-- Animated Typing -->
@@ -13,7 +13,7 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Co--Founder-JEREMY%20S.A.S-0D47A1?style=for-the-badge&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00B4D8?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software-Engineer-00B4D8?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Ecuador-%F0%9F%87%AA%F0%9F%87%A8-1565C0?style=for-the-badge" />
 </p>
 
@@ -37,9 +37,9 @@
 <td width="55%">
 
 ```typescript
-const LuisMarin: Developer = {
+const LuisMarin: Engineer = {
   location: "Ecuador",
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   company: {
     name: "JEREMY S.A.S",
     position: "Co-Founder",
@@ -151,13 +151,6 @@ Como Co-Fundador de **JEREMY S.A.S**, lidero el desarrollo de productos tecnolog
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luismr1997&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=1565C0&text_color=FFFFFF&ring_color=0D47A1" width="49%"/>
-  <img src="https://streak-stats.demolab.com?user=luismr1997&hide_border=true&background=0D1117&stroke=1565C0&ring=00B4D8&fire=0D47A1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=1565C0&dates=58A6FF" width="49%"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismr1997&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" width="35%"/>
 </div>
 
@@ -245,7 +238,7 @@ Como Co-Fundador de **JEREMY S.A.S**, lidero el desarrollo de productos tecnolog
 |                                           |
 |   - Luis Marin                            |
 |   Co-Founder @ JEREMY S.A.S               |
-|   Full Stack Developer                    |
+|   Software Engineer                       |
 |   Ecuador                                 |
 |                                           |
 +===========================================+
