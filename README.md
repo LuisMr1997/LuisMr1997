@@ -30,6 +30,7 @@
 <br>
 
 <!-- About Me Section -->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Sobre Mi**
 
 <table>
@@ -66,20 +67,22 @@ const LuisMarin: Engineer = {
 <div align="center">
 
 | <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="50"/> | <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50"/> | <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="50"/> |
-|:---:|:---:|:---:|
-| **Working on** | **Collaborating** | **Learning** |
-| [Holding Medic](https://vmed-ec.net/) | [InvestigaDus](https://investigadus.senescyt.gob.ec/?locale=es) | Scrum Master & New Tech |
+| :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
+|                                   **Working on**                                   |                                 **Collaborating**                                  |                                    **Learning**                                    |
+|                       [Holding Medic](https://vmed-ec.net/)                        |          [InvestigaDus](https://investigadus.senescyt.gob.ec/?locale=es)           |                              Scrum Master & New Tech                               |
 
 </div>
 
 <br>
 
 <!-- Tech Stack Section -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> **Tech Arsenal**
 
 <div align="center">
 
 ### Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,flutter&theme=dark" />
 </p>
@@ -88,21 +91,25 @@ const LuisMarin: Engineer = {
 </p>
 
 ### Backend
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,php,python,express,graphql&theme=dark" />
 </p>
 
 ### Mobile
+
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,firebase&theme=dark" />
 </p>
 
 ### Database & Cloud
+
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,aws,gcp&theme=dark" />
 </p>
 
 ### DevOps & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,linux,figma&theme=dark" />
 </p>
@@ -112,6 +119,7 @@ const LuisMarin: Engineer = {
 <br>
 
 <!-- JEREMY S.A.S Section -->
+
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> **JEREMY S.A.S**
 
 <div align="center">
@@ -148,11 +156,8 @@ Como Co-Fundador de **JEREMY S.A.S**, lidero el desarrollo de productos tecnolog
 <br>
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismr1997&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=FFFFFF" width="35%"/>
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> **GitHub Analytics**
 
 <br>
 
@@ -171,6 +176,7 @@ Como Co-Fundador de **JEREMY S.A.S**, lidero el desarrollo de productos tecnolog
 <br>
 
 <!-- Connect Section -->
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Conectemos**
 
 <div align="center">
